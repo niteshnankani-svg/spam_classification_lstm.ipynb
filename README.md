@@ -1,3 +1,8 @@
+## 🔗 Live Demo (Coming Soon)
+A simple interface will be added using Streamlit to test real-time spam predictions.
+
+
+
 # 📩 SMS Spam Detection using Deep Learning (CNN vs LSTM vs BERT)
 
 This project explores multiple deep learning approaches for SMS spam detection and compares their performance on the same dataset.
